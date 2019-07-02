@@ -1,0 +1,83 @@
+body {
+	font-family: sans-serif;
+	color: #7c7176;
+	padding-left: 200px;
+	padding-right: 200px
+}
+
+a {
+	color: #FF4444
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h1,h2 {
+	text-align: center;
+	font-weight: bold;
+}
+
+p {
+	text-align: justify;
+}
+[attr="observaciones"] {
+	background: #fbecf2;
+	padding: 24px;
+	margin-top: 40px
+}
+
+[attr="observaciones"] h2 {
+	color: #FFAAAA;
+}
+
+[attr="preparacion"] {
+	background: #f9f7f8;
+	padding: 24px;
+	margin-top: 40px
+}
+
+[attr="preparacion"] h2 {
+	color: #AAAAFF;
+}
+
+li {
+	margin-top: 16px
+
+}
+
+[attr="tablas"] {
+	background: #FFAAAA;
+	border: none;	
+	padding: 40px;
+	margin-top: 40px
+}
+
+
+[attr="tablas"] th {
+	background: #FFAAAA;
+	border: none;
+	margin-top: 40px
+
+}
+
+[attr="tablas2"] {
+	background: #FADAF7;
+	border: none;
+	padding: 40px;
+	margin-top: 40px
+
+}
+[attr="tablas3"] {
+	background: #FCFCE9;
+	border: none;
+	padding: 40px;
+	margin-top: 40px
+
+}
+[attr="forma"] {
+	border-style: solid;
+ 	border-color: #FAFAF2;
+ 	border-width: 40px;
+ 	padding: 16px
+}
